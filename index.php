@@ -1,3 +1,4 @@
+<!-- Hello There Simon -->
 <!DOCTYPE html>
 <!-- This is me here -->
 <html lang="en" style="overflow-x: hidden;">
@@ -7,7 +8,7 @@
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <meta name="author" content="harrnish">
 
-      <title>Daniel Avery</title>
+      <title>Daniel Avery Videographic</title>
 
       <!-- stylesheet -->
       <link rel="stylesheet" href="style.css">
