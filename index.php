@@ -7,7 +7,7 @@
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <meta name="author" content="harrnish">
 
-      <title>Daniel Avery</title>
+      <title>Daniel Avery Videographic</title>
 
       <!-- stylesheet -->
       <link rel="stylesheet" href="style.css">
